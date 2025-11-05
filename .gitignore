@@ -39,3 +39,35 @@
 
 # debug information files
 *.dwo
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Compiled Obj Files
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.log
+
+# Visual Studio Project files (not needed for code practice)
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# OS junk
+.DS_Store
+Thumbs.db
