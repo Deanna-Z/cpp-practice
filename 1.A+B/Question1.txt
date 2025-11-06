@@ -20,3 +20,17 @@ If the second pair of integers appears on the second line of input, their sum sh
 ----Sample Output
 7
 51
+
+
+
+
+
+
+----------------------------------Key concept-----------------------------------------------------
+1.C++ Function Basics
+2.Variables
+3.Data Types               int, float, double, char, bool
+4.Input and Output Methods    std::cin / std::cout
+5.Standard Library
+6.Namespace
+7.Using while Loop for Multiple Inputs
