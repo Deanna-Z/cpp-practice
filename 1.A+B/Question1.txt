@@ -1,0 +1,22 @@
+1. A + B Problem
+---Problem Description
+
+Your task is to compute the sum of two integers, a + b.
+
+----Input Description
+
+The input contains a sequence of integer pairs a and b, separated by spaces.
+Each pair of a and b is given on a separate line.
+
+----Output Description
+
+For each input pair of a and b, output their sum on a separate line.
+If the second pair of integers appears on the second line of input, their sum should also be printed on the second line of output.
+
+----Sample Input
+3 4
+11 40
+
+----Sample Output
+7
+51
